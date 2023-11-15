@@ -3,7 +3,7 @@ O site foi implementado junto ao curso _**JavaScript Completo ES6**_ da **Origam
 ou pelo link abaixo:
 
 ```
-[https://animais-fantasticos-beta.vercel.app/]
+[https://animais-fantasticos-beta.vercel.app/](https://animais-fantasticos-beta.vercel.app/)
 ```
 
 Foram colocados em prática os conceitos de: 
@@ -15,4 +15,4 @@ Foram colocados em prática os conceitos de:
 - Scroll Suave 
 - Animações
 
-***Acesse também meu LinkedIn: [https://www.linkedin.com/in/helder-franklin/]***
+***Acesse também meu LinkedIn: [www.linkedin.com/in/helder-franklin](https://www.linkedin.com/in/helder-franklin/)***
