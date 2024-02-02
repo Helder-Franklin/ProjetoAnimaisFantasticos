@@ -1,9 +1,9 @@
 # Projeto Animais Fantasticos
-O site foi implementado junto ao curso _**JavaScript Completo ES6**_ da **Origamid** e seu deploy foi realizado de forma gratuita pela **Vercel**, consulte na íntegra clicando [aqui](https://animais-fantasticos-beta.vercel.app/)
+O site foi implementado junto ao curso _**JavaScript Completo ES6**_ da **Origamid** e seu deploy foi realizado de forma gratuita pela **Vercel** inicialmente, porém ao fim do curso, optei por utilizar apenas o GitHub Pages para o processo. Consulte na íntegra clicando [aqui](https://helder-franklin.github.io/ProjetoAnimaisFantasticos/)
 ou pelo link abaixo:
 
 
-> [https://animais-fantasticos-beta.vercel.app/](https://animais-fantasticos-beta.vercel.app/)
+> [Helder-franklin.github.io/ProjetoAnimaisFantasticos](https://helder-franklin.github.io/ProjetoAnimaisFantasticos/)
 
 
 Foram colocados em prática os conceitos de: 
@@ -14,6 +14,8 @@ Foram colocados em prática os conceitos de:
 - Accordion List
 - Scroll Suave 
 - Animações
-
-> [!NOTE]
-> ***Acesse também meu LinkedIn: [www.linkedin.com/in/helder-franklin](https://www.linkedin.com/in/helder-franklin/)***
+- Fetch
+- API
+- Git
+- Webpack
+- Tooltip
