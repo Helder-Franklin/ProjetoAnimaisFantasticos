@@ -8,7 +8,7 @@ a {
   color: black;
 }
 
-a:hover {
+.menuClick:hover, a:hover{
   color: #E54;
 }
 
